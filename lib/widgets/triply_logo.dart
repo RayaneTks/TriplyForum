@@ -15,7 +15,7 @@ class TriplyLogo extends StatelessWidget {
     final size = fontSize ?? 36.0;
 
     return Image.asset(
-      'assets/triplylogowhite.png',
+      'assets/triplylogo.png',
       height: size,
       fit: BoxFit.contain,
     );
